@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37027.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maow", "Maow.vcxproj", "{63BF3F29-D822-4174-939C-21915DE35B18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BF3F29-D822-4174-939C-21915DE35B18}.Debug|x64.ActiveCfg = Debug|x64
+		{63BF3F29-D822-4174-939C-21915DE35B18}.Debug|x64.Build.0 = Debug|x64
+		{63BF3F29-D822-4174-939C-21915DE35B18}.Debug|x86.ActiveCfg = Debug|Win32
+		{63BF3F29-D822-4174-939C-21915DE35B18}.Debug|x86.Build.0 = Debug|Win32
+		{63BF3F29-D822-4174-939C-21915DE35B18}.Release|x64.ActiveCfg = Release|x64
+		{63BF3F29-D822-4174-939C-21915DE35B18}.Release|x64.Build.0 = Release|x64
+		{63BF3F29-D822-4174-939C-21915DE35B18}.Release|x86.ActiveCfg = Release|Win32
+		{63BF3F29-D822-4174-939C-21915DE35B18}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {296FEBE9-9829-43E9-BA59-AA562840633D}
+	EndGlobalSection
+EndGlobal
